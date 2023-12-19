@@ -1,6 +1,6 @@
 # chats App
 
-A new Flutter project built using Firebase Auth, Firebase storage, firebase firestore.
+A new flutter project built using Firebase Authentication, Firebase Storage, and Firebase Firestore.
 
 ## Getting Started
 
